@@ -3,7 +3,6 @@
 
 **Glad to see you here!**
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something cool 🧑‍💻
 - 🚀 I’m currently working with **Nodejs, Express, React, Laravel, MariaDB, Mongodb, Javascript, etc.**
