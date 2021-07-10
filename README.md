@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Full Stack Development**
 - 💬 Ask me about anything related to **JavaScript/Python/PHP** or **React/Laravel** or **AWS/Docker**
 - 📫 How to reach me: [@irwanrobi](https://www.irwanrobi.com)
-- ⚡️ Fun fact: Equal is Not Always Equal in Javascript.
+- ⚡️ Fun fact: Love to travel for food 🍔
